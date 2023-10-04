@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string-array name="Languages">
+
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Italian</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Tamil</item>
+        <item>Punjabi</item>
+        <item>Urdu</item>
+
+    </string-array>
+
+</resources>
