@@ -53,8 +53,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 
 Special thanks to the JioSaavan API for providing the music data that powers this app.
 
-## License
-
 Feel the rhythm, enjoy the beats, and explore the world of music with the MusicPlayer app! 🎧🚀
 
 #MusicPlayer #Java #AndroidApp #MusicStreaming #JioSaavanAPI
