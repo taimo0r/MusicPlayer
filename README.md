@@ -2,7 +2,7 @@
 
 Welcome to the MusicPlayer app - your go-to solution for streaming, listening, and downloading music in five different languages! 🌍
 
-<img src="Screenshots/MusicPlayer_HomeScreenActivity.jpeg" alt="Home Screen" width="400"/>  
+<img src="Screenshots/image1.jpeg" alt="Home Screen" width="400"/>  
 
 ## Features
 
@@ -28,10 +28,10 @@ To get started with the MusicPlayer app:
 
 ## 📱 Screenshots
 
-<img src="Screenshots/MusicPlayer_SearchActivity.jpeg" alt="Search Screen" width="400"/>            <img src="Screenshots/Musicplayer_AlbumActivity.jpeg" alt="Album Screen" width="400"/>
+<img src="Screenshots/image2.jpeg" alt="Search Screen" width="400"/>            <img src="Screenshots/image3.jpeg" alt="Album Screen" width="400"/>
 
 
-<img src="Screenshots/Musicplayer_FavouritesActivity.jpeg" alt="List Favourites Screen" width="400"/>             <img src="Screenshots/Musicplayer_PlayActivity.jpeg" alt="Player Screen" width="400"/>
+<img src="Screenshots/image4.jpeg" alt="List Favourites Screen" width="400"/>             <img src="Screenshots/image5.jpeg" alt="Player Screen" width="400"/>
 
 
 ## Usage
